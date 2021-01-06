@@ -1,0 +1,88 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    margin:0%;
+}
+p{
+    text-align: justify;
+}
+h1{
+    font-weight: bold;
+    font-size: 30px;
+}
+.button{
+    text-decoration: none;
+    text-align: center;
+    background-image: linear-gradient(45deg, orange , rgb(209, 44, 224));
+    color: white;
+    padding: 2%;
+    font-size-adjust: initial;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 10px;
+    height: 100%;
+    padding: 2%;
+}
+.half-width img{
+     width: 100%;
+}
+.highlight{
+    color: rgb(216, 125, 50);
+    font-size: 110%;
+}
+.one-third-width{
+    border: 2px solid goldenrod;
+    border-radius: 10px;
+    box-shadow: 10px 15px rgba(187, 167, 108, 0.688);
+    width: 24%;
+    float: left;
+    margin: 2%;
+    height: 60%;
+    padding: 2%;
+    background-color: white;
+}
+.one-third-width img{
+    width:100%
+}
+#work-sample{
+    background-image: linear-gradient(rgba(221, 213, 213, 0.271), rgb(185, 179, 179));
+    height: 700px;
+}
+section{
+    height: 530px;
+    padding: 2%;
+    margin: 5%;
+}
+.section1{
+    height: 100px;
+}
+
+#central-text{
+    text-align: center;
+}
+.chat-image{
+    background-image: url("Images/Group_33094_1.png");
+    height: 300px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: contain;
+    margin: 10% ;
+}
+.half-width-2 {
+    width: 30%;
+    float: left;
+    height: 10%;
+    padding: 5%;
+    margin: 4%;
+}
+footer p{
+    text-align: center;
+}
+#connects{
+    text-align: center;
+    background-color: rgb(129, 65, 217);
+    height: 200px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
